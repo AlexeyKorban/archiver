@@ -1,4 +1,4 @@
-package local.ldwx.exception;
+package ru.ldwx.exception;
 
 public class PathIsNotFoundException extends Exception {
 }

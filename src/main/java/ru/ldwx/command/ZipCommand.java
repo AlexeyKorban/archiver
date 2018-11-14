@@ -1,7 +1,7 @@
-package local.ldwx.command;
+package ru.ldwx.command;
 
-import local.ldwx.ConsoleHelper;
-import local.ldwx.ZipFileManager;
+import ru.ldwx.ConsoleHelper;
+import ru.ldwx.ZipFileManager;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;

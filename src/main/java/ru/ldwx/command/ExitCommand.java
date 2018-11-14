@@ -1,6 +1,6 @@
-package local.ldwx.command;
+package ru.ldwx.command;
 
-import local.ldwx.ConsoleHelper;
+import ru.ldwx.ConsoleHelper;
 
 public class ExitCommand implements Command {
     @Override

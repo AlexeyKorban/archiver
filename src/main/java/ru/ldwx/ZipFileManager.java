@@ -1,7 +1,7 @@
-package local.ldwx;
+package ru.ldwx;
 
-import local.ldwx.exception.PathIsNotFoundException;
-import local.ldwx.exception.WrongZipFileException;
+import ru.ldwx.exception.PathIsNotFoundException;
+import ru.ldwx.exception.WrongZipFileException;
 
 import java.io.ByteArrayOutputStream;
 import java.io.InputStream;

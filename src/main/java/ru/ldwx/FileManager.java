@@ -1,4 +1,4 @@
-package local.ldwx;
+package ru.ldwx;
 
 import java.io.IOException;
 import java.nio.file.DirectoryStream;

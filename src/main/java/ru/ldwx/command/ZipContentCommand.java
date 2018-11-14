@@ -1,8 +1,8 @@
-package local.ldwx.command;
+package ru.ldwx.command;
 
-import local.ldwx.ConsoleHelper;
-import local.ldwx.FileProperties;
-import local.ldwx.ZipFileManager;
+import ru.ldwx.ConsoleHelper;
+import ru.ldwx.FileProperties;
+import ru.ldwx.ZipFileManager;
 
 import java.util.List;
 

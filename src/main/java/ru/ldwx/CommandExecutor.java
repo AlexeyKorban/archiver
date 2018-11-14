@@ -1,6 +1,6 @@
-package local.ldwx;
+package ru.ldwx;
 
-import local.ldwx.command.*;
+import ru.ldwx.command.*;
 
 import java.util.HashMap;
 import java.util.Map;

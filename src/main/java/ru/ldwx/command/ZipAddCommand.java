@@ -1,8 +1,8 @@
-package local.ldwx.command;
+package ru.ldwx.command;
 
-import local.ldwx.ConsoleHelper;
-import local.ldwx.ZipFileManager;
-import local.ldwx.exception.PathIsNotFoundException;
+import ru.ldwx.ConsoleHelper;
+import ru.ldwx.ZipFileManager;
+import ru.ldwx.exception.PathIsNotFoundException;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;
